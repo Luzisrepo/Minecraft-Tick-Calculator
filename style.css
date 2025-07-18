@@ -1,0 +1,22 @@
+* {
+  font-family:Arial;
+  font-size:95%;
+  color:black;
+}
+
+input {
+  border:1px solid black;
+  border-radius:3px;
+  color:black;
+}
+
+button {
+  background-color:transparent;
+  color:black;
+  border:1px solid black;
+  border-radius:3px;
+}
+
+.container {
+  padding:20px;
+}
